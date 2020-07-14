@@ -1,0 +1,14 @@
+{
+  "name": "final.js",
+  "version": "1.0.0",
+  "main": "final.js",
+  "license": "MIT",
+  "scripts":{
+    "dev": "nodemon final.js"
+  },
+  "author": "Fernanda De Mattos Soares",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
